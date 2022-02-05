@@ -60,13 +60,66 @@ Grading Policy
 
 Graded problem sets and quizzes will be returned in recitation about 10 days after they are submitted. Problem set grades, quiz and final exam grades will be available through class site gradebook. The 'late penalties' will not be reflected in the posted grades, but will be deducted from your total grade at the end of the term.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| 10 Problem Sets (each worth 4 points) | 40% |
-| 30 Active Learning Exercise Sessions (each worth 1/3 of a point) | 10% |
-| 2 In-class Quizzes (open book, open notes) (each worth 12 points) | 24% |
-| Final Exam during Finals Period (open book, open notes) (worth 20 points) | 20% |
-| Weekly Recitations, Graded on Attendance and Participation | 6% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10 Problem Sets (each worth 4 points)
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30 Active Learning Exercise Sessions (each worth 1/3 of a point)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2 In-class Quizzes (open book, open notes) (each worth 12 points)
+{{< tdclose >}}
+{{< tdopen >}}
+24%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam during Finals Period (open book, open notes) (worth 20 points)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Weekly Recitations, Graded on Attendance and Participation
+{{< tdclose >}}
+{{< tdopen >}}
+6%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Academic Honesty
 ----------------
@@ -113,52 +166,537 @@ You must request a makeup quiz at least two weeks before the quiz date, unless t
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Control and Scope**{{< /td-colspan >}} |||
-| L 1 | Course Overview, Introduction to Java | Problem Set 0 Out |
-| L 2 | Interactive Development Environment: Eclipse | Problem Set 1 Out |
-| L 3 | Operators, Control Structures | Recitation 1, Problem Set 0 Due |
-| L 4 | Data Types, More Operators | — |
-| L 5 | More Data Types, Control Structures, Intro to Methods | Problem Set 1 Due, Problem Set 2 Out |
-| L 6 | Methods and Scope | Recitation 2 |
-| {{< td-colspan 3 >}}**Classes and Objects**{{< /td-colspan >}} |||
-| L 7 | Classes and Objects | — |
-| L 8 | Classes II | Problem Set 2 Due, Problem Set 3 Out |
-| L 9 | Methods and Objects, Access | Recitation 3 |
-| L 10 | Static Methods and Data | — |
-| L 11 | Arrays, Arraylists | Problem Set 3 Due, Problem Set 4 Out |
-| L 12 | Recursion | Recitation 4 |
-| {{< td-colspan 3 >}}**Inheritance**{{< /td-colspan >}} |||
-| L 13 | Inheritance: Subclasses | Quiz 1 Review |
-| — | QUIZ I | — |
-| L 14 | Inheritance II: Abstract Classes, Methods | Recitation 5 |
-| L 15 | Inheritance III: Interfaces | — |
-| L 16 | Design Lab I - Inheritance | — |
-| {{< td-colspan 3 >}}**Graphical User Interfaces**{{< /td-colspan >}} |||
-| L 17 | Introduction to Swing | Recitation 6 |
-| L 18 | Swing Event Model | — |
-| L 19 | Inner Classes, Layout Managers | Problem Set 5 Due, Problem Set 6 Out |
-| L 20 | Model-View-Controller, Timers | Recitation 7 |
-| L 21 | 2D API, 2D Transformations | — |
-| L 22 | Design Lab II- Swing | Problem Set 6 Due, Problem Set 7 Out |
-| {{< td-colspan 3 >}}**Streams (Input/Output) and Exceptions**{{< /td-colspan >}} |||
-| L 23 | Streams I, Exceptions | Recitation 8. Set up sensor kit in recitation. |
-| L 24 | Streams II | Quiz 2 Review |
-| — | QUIZ II | — |
-| {{< td-colspan 3 >}}**Sensors and Threads**{{< /td-colspan >}} |||
-| L 25 | Sensors I | — |
-| L 26 | Sensors II | Problem Set 7 Due, Problem Set 8 Out |
-| L 27 | Design Lab III - Sensors | Recitation 9 |
-| L 28 | Threads | — |
-| L 29 | Threads and Sensors | Problem Set 8 Due, Problem Set 9 Out |
-| {{< td-colspan 3 >}}**Numerical Methods**{{< /td-colspan >}} |||
-| L 30 | Matrices | Recitation 10 |
-| L 31 | Linear Systems | — |
-| L 32 | Integration | Problem Set 9 Due, Problem Set 10 Out |
-| L 33 | Root Finding | Recitation 11 |
-| {{< td-colspan 3 >}}**Data Structures**{{< /td-colspan >}} |||
-| L 34 | Sorting | — |
-| L 35 | Stacks, Queues | Problem Set 10 Due. Practice-only Problem Set 11 Out. |
-| L 36 | Lists | Recitation 12 |
-| L 37 | Storing Data: Trees, Hash Tables | Practice-only Problem Set 11 solutions posted.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Control and Scope**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 1
+{{< tdclose >}}
+{{< tdopen >}}
+Course Overview, Introduction to Java
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 0 Out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 2
+{{< tdclose >}}
+{{< tdopen >}}
+Interactive Development Environment: Eclipse
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 1 Out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 3
+{{< tdclose >}}
+{{< tdopen >}}
+Operators, Control Structures
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 1, Problem Set 0 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 4
+{{< tdclose >}}
+{{< tdopen >}}
+Data Types, More Operators
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 5
+{{< tdclose >}}
+{{< tdopen >}}
+More Data Types, Control Structures, Intro to Methods
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 1 Due, Problem Set 2 Out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 6
+{{< tdclose >}}
+{{< tdopen >}}
+Methods and Scope
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Classes and Objects**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 7
+{{< tdclose >}}
+{{< tdopen >}}
+Classes and Objects
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 8
+{{< tdclose >}}
+{{< tdopen >}}
+Classes II
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 2 Due, Problem Set 3 Out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 9
+{{< tdclose >}}
+{{< tdopen >}}
+Methods and Objects, Access
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 10
+{{< tdclose >}}
+{{< tdopen >}}
+Static Methods and Data
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 11
+{{< tdclose >}}
+{{< tdopen >}}
+Arrays, Arraylists
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 3 Due, Problem Set 4 Out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 12
+{{< tdclose >}}
+{{< tdopen >}}
+Recursion
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Inheritance**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 13
+{{< tdclose >}}
+{{< tdopen >}}
+Inheritance: Subclasses
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1 Review
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+QUIZ I
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 14
+{{< tdclose >}}
+{{< tdopen >}}
+Inheritance II: Abstract Classes, Methods
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 15
+{{< tdclose >}}
+{{< tdopen >}}
+Inheritance III: Interfaces
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 16
+{{< tdclose >}}
+{{< tdopen >}}
+Design Lab I - Inheritance
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Graphical User Interfaces**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 17
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Swing
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 18
+{{< tdclose >}}
+{{< tdopen >}}
+Swing Event Model
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 19
+{{< tdclose >}}
+{{< tdopen >}}
+Inner Classes, Layout Managers
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 5 Due, Problem Set 6 Out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 20
+{{< tdclose >}}
+{{< tdopen >}}
+Model-View-Controller, Timers
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 21
+{{< tdclose >}}
+{{< tdopen >}}
+2D API, 2D Transformations
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 22
+{{< tdclose >}}
+{{< tdopen >}}
+Design Lab II- Swing
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 6 Due, Problem Set 7 Out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Streams (Input/Output) and Exceptions**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 23
+{{< tdclose >}}
+{{< tdopen >}}
+Streams I, Exceptions
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 8. Set up sensor kit in recitation.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 24
+{{< tdclose >}}
+{{< tdopen >}}
+Streams II
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2 Review
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+{{< tdopen >}}
+QUIZ II
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Sensors and Threads**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 25
+{{< tdclose >}}
+{{< tdopen >}}
+Sensors I
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 26
+{{< tdclose >}}
+{{< tdopen >}}
+Sensors II
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 7 Due, Problem Set 8 Out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 27
+{{< tdclose >}}
+{{< tdopen >}}
+Design Lab III - Sensors
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 28
+{{< tdclose >}}
+{{< tdopen >}}
+Threads
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 29
+{{< tdclose >}}
+{{< tdopen >}}
+Threads and Sensors
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 8 Due, Problem Set 9 Out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Numerical Methods**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 30
+{{< tdclose >}}
+{{< tdopen >}}
+Matrices
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 31
+{{< tdclose >}}
+{{< tdopen >}}
+Linear Systems
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 32
+{{< tdclose >}}
+{{< tdopen >}}
+Integration
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 9 Due, Problem Set 10 Out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 33
+{{< tdclose >}}
+{{< tdopen >}}
+Root Finding
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Data Structures**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 34
+{{< tdclose >}}
+{{< tdopen >}}
+Sorting
+{{< tdclose >}}
+{{< tdopen >}}
+—
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 35
+{{< tdclose >}}
+{{< tdopen >}}
+Stacks, Queues
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 10 Due. Practice-only Problem Set 11 Out.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 36
+{{< tdclose >}}
+{{< tdopen >}}
+Lists
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L 37
+{{< tdclose >}}
+{{< tdopen >}}
+Storing Data: Trees, Hash Tables
+{{< tdclose >}}
+{{< tdopen >}}
+Practice-only Problem Set 11 solutions posted.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

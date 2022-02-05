@@ -25,13 +25,90 @@ Exams
 Practice Exams and Quizzes
 --------------------------
 
-| SEMESTERS | EXAM |
-| --- | --- |
-| Fall 2008 | [Quiz 2 (PDF)]({{< baseurl >}}/resources/mit1_00s12_quiz2_f08) |
-| Fall 2010 | [Final (PDF)]({{< baseurl >}}/resources/mit1_00s12_final_f10) |
-| Spring 2010 | [Quiz 1 (PDF)]({{< baseurl >}}/resources/mit1_00s12_quiz1_s10) |
-| &nbsp; | [Quiz 2 (PDF)]({{< baseurl >}}/resources/mit1_00s12_quiz2_s10) |
-| &nbsp; | [Final (PDF)]({{< baseurl >}}/resources/mit1_00s12_final_s10) |
-| Spring 2011 | [Quiz 1 (PDF)]({{< baseurl >}}/resources/mit1_00s12_quiz1_s11) |
-| &nbsp; | [Quiz 2 (PDF)]({{< baseurl >}}/resources/mit1_00s12_quiz_2_s12) |
-| Fall 2011 | [Final (PDF)]({{< baseurl >}}/resources/mit1_00s12_final_f11)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SEMESTERS
+{{< thclose >}}
+{{< thopen >}}
+EXAM
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Fall 2008
+{{< tdclose >}}
+{{< tdopen >}}
+[Quiz 2 (PDF)]({{< baseurl >}}/resources/mit1_00s12_quiz2_f08)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Fall 2010
+{{< tdclose >}}
+{{< tdopen >}}
+[Final (PDF)]({{< baseurl >}}/resources/mit1_00s12_final_f10)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Spring 2010
+{{< tdclose >}}
+{{< tdopen >}}
+[Quiz 1 (PDF)]({{< baseurl >}}/resources/mit1_00s12_quiz1_s10)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+[Quiz 2 (PDF)]({{< baseurl >}}/resources/mit1_00s12_quiz2_s10)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+[Final (PDF)]({{< baseurl >}}/resources/mit1_00s12_final_s10)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Spring 2011
+{{< tdclose >}}
+{{< tdopen >}}
+[Quiz 1 (PDF)]({{< baseurl >}}/resources/mit1_00s12_quiz1_s11)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+[Quiz 2 (PDF)]({{< baseurl >}}/resources/mit1_00s12_quiz_2_s12)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Fall 2011
+{{< tdclose >}}
+{{< tdopen >}}
+[Final (PDF)]({{< baseurl >}}/resources/mit1_00s12_final_f11)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
