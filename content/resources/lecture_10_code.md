@@ -3,6 +3,7 @@ content_type: resource
 description: This is a special resource for lecture 10.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/2533ea0e5b4895058203a029ac9cfdb8_Lecture_10_code.zip
 file_type: application/zip
+parent_uid: cfe95031-1d4d-a15d-46b1-ed49c9bb355d
 resourcetype: Other
 title: Lecture_10_code.zip
 uid: 2533ea0e-5b48-9505-8203-a029ac9cfdb8
