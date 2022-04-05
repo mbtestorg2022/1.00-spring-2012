@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: b1a78d76-f7e7-9a73-3cf9-35247474a66a
 ---
@@ -31,7 +34,7 @@ SUPPORTING FILES
 [Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit1_00s12_ps_1)
 {{< tdclose >}}
 {{< tdopen >}}
-[Sample Output (TXT)](./resolveuid/2545ccb691207769525b815cf277e641)
+[Sample Output (TXT)]({{< baseurl >}}/resources/ps_1_sampleoutput)
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -4,6 +4,11 @@ description: This resource contains information regarding abstract classes/metho
   and interfaces.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/4064e7ca7613e3468601fdf1ef54944b_MIT1_00S12_REC_6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 parent_uid: b572abe5-27d6-eb43-bbfc-f09bfe5f3397
 resourcetype: Document
 title: Abstract Classes/Methods and Interfaces

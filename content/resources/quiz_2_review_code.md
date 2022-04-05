@@ -3,6 +3,11 @@ content_type: resource
 description: This is a special file for quiz 2 review code.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/ebc4a912adc749b9ed3ab6dbf62b7b67_Quiz_2_review_code.zip
 file_type: application/zip
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 parent_uid: 42a83059-1a48-adbe-783e-bb4f922fd312
 resourcetype: Other
 title: Quiz_2_review_code.zip

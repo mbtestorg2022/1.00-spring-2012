@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 55b15c54-cedb-48f0-020c-fc21e473e664
 ---
@@ -76,28 +78,6 @@ Graduate credit is available by registering for 1.001 (9 units) or 1.002 (12 uni
 ### Offered
 
 Every semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A large lecture hall with tiered seating and nine chalkboards.]({{< resource_file 20edc3dd-760e-735c-7d2a-7a9d3b19abbd >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lecture
-    
-    1.00 was taught in one of MIT’s largest lecture halls, which seats about 425. Students brought laptops to every class and sit in alternating rows. All lectures were active learning sessions with lab exercises posted a week before lecture.
-    
-*   ![A small classroom with armchairs, as well as projectors and chalkboards at the front of the class.]({{< resource_file 1da3b74c-4db8-4dbb-266e-6a3f7b74d144 >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Recitation
-    
-    Students were each assigned to a recitation section which had up to 12 students and attendance was mandatory. Recitations met once a week in smaller classrooms like this one.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
